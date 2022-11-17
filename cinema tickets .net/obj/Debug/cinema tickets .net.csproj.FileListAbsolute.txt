@@ -1,0 +1,8 @@
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\bin\Debug\cinema_tickets.net.exe.config
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\bin\Debug\cinema_tickets.net.exe
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\bin\Debug\cinema_tickets.net.pdb
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\obj\Debug\cinema tickets .net.csproj.AssemblyReference.cache
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\obj\Debug\cinema tickets .net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\obj\Debug\cinema tickets .net.csproj.CoreCompileInputs.cache
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\obj\Debug\cinema_tickets.net.exe
+C:\Users\Mejz\Desktop\cinema tickets .net\cinema tickets .net\obj\Debug\cinema_tickets.net.pdb
